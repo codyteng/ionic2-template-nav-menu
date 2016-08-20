@@ -48,5 +48,3 @@ Author: CodeDee
 
 You should be able to expand your awesome-app development from here.
 
-Enjoy,
-CodeDee
