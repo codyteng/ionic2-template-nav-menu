@@ -3,6 +3,7 @@ import {ionicBootstrap, Platform, MenuController, Nav} from 'ionic-angular';
 import {StatusBar} from 'ionic-native';
 
 import { AboutPage } from './pages/about/about';
+import { SettingsPage } from './pages/settings/settings';
 
 @Component({
   templateUrl: 'build/app.html'
@@ -21,8 +22,10 @@ class MyApp {
     this.initializeApp();
 
     // set our app's pages
+    // side menu will show in this top-down order
     this.pages = [
-      { title: 'About', component: AboutPage }
+      { title: 'About', component: AboutPage },
+      { title: 'Settings', component: SettingsPage}
     ];
   }
 
