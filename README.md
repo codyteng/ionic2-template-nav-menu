@@ -6,7 +6,7 @@ Author: CodeDee
 
 Simply go to this URL
   ```
-  codyteng.xyz/ionic-template-nav-menu
+  codyteng.xyz/ionic2-template-nav-menu/
   ```
   
 
