@@ -36,8 +36,8 @@ Author: CodeDee
     
 8. Add platform to your code, iOS & Android.
     ```
-    ionic add platform ios
-    ionic add platform android
+    ionic platform add ios
+    ionic platform add android
     ```
     
 9. To run added platform on emulator / physical device. You should have emulator / physical device attached to your system.
